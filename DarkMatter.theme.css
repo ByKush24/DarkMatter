@@ -16,6 +16,6 @@
     --background-solid: rgba(22, 25, 33, 1);
     --background-solid-dark: rgba(16, 18, 24, .1);
     --background-solid-darker: rgba(12, 14, 18, .25);
-    --accent: 232, 37, 37;
-    --accent-alt: 134, 29, 29;
+    --accent: 232, 37, 37, .1;
+    --accent-alt: 134, 29, 29, .1;
 }
